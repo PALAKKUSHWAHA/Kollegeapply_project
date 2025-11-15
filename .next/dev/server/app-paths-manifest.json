@@ -1,0 +1,5 @@
+{
+  "/amity/apply/page": "app/amity/apply/page.js",
+  "/amity/page": "app/amity/page.js",
+  "/page": "app/page.js"
+}

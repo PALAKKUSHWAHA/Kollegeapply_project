@@ -1,0 +1,17 @@
+[00:00:01.505] Server  LOG     
+[00:00:01.505] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:01.505] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:01.506] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:01.507] Server  LOG     
+[00:00:01.507] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:01.507] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:01.507] Server  LOG     
+[00:00:01.820] Server  LOG      ✓ Ready in 1220ms
+[00:00:26.628] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:26.782] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:26.782] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:26.782] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763210968620}
+[00:00:33.423] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/amity color: rgb(120, 120, 120) color: inherit {"dp":"/amity","o":"http://localhost:3000/amity","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763210975259}
+[00:00:35.688] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/amity/apply color: rgb(120, 120, 120) color: inherit {"dp":"/amity/apply","o":"http://localhost:3000/amity/apply","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763210977523}
